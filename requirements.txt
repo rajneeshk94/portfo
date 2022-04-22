@@ -4,7 +4,7 @@ chardet==3.0.4
 idna==2.9
 Pillow==7.1.2
 PyJWT==1.7.1
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pytz==2020.1
 requests==2.23.0
 six==1.15.0
